@@ -1,0 +1,33 @@
+# Swap Files
+.~
+*~
+.emacs.desktop
+.emacs.desktop.lock
+.DS_Store
+*.swp
+
+# Log Files
+*.log
+*.out
+*.err
+**/*.log
+worker.err
+worker.out
+
+# Python 
+*.pyc
+**/*.pyc
+
+# Java class 
+*.class
+
+# Package Files
+*.ear
+*.gz
+
+# R proj
+*.csv
+*.Rhistory
+*.RData
+*jpg
+# target folder and lib
